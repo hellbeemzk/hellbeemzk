@@ -1,6 +1,6 @@
 ### 🙋🏻‍♂️ Welcome! 👋🏻
 
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram]
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>][Gmail]
 
 ## 🙃 About me 
 ✌🏻 My name is Konstantin, I'am a self-taught iOS Developer 
@@ -19,5 +19,6 @@
     
 [Twitter]: https://twitter.com/hellbeemzk
 [Telegram]: https://telegram.me/hellbeemzk
+[Gmail]: https://hellbeemzk@gmail.com
 
 
