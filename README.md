@@ -1,9 +1,5 @@
 ### 🙋🏻‍♂️ Welcome! 👋🏻
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hellbeemzk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" width="350"/>
-
-<img src="https://github.com/hellbeemzk/hellbeemzk/blob/main/giphy.gif?raw=true" width="90" align="left">
-
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][Twitter][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>][Telegram]
 
 ## 🙃 About me 
@@ -17,7 +13,10 @@
 ## Skills & Tools
 
 <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikhailKostylev&theme=dark)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hellbeemzk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" width="350"/>
+    
 [Twitter]: https://twitter.com/hellbeemzk
 [Telegram]: https://telegram.me/hellbeemzk
+
+
