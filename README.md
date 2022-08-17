@@ -19,6 +19,6 @@
     
 [Twitter]: https://twitter.com/hellbeemzk
 [Telegram]: https://telegram.me/hellbeemzk
-[Gmail]: https://hellbeemzk@gmail.com
+[Gmail]: mailto:hellbeemzk@gmail.com
 
 
